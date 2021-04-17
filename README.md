@@ -1,0 +1,1 @@
+moje ramdomowe ćwiczenia z pythona
